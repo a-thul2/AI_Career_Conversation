@@ -7,14 +7,14 @@ Instead of a static resume, this project provides a dynamic, always-on experienc
 
 ## 🚀 Features
 
-✅ Conversational AI Resume – Ask anything about my background, skills, and projects
-✅ Gemini LLM Integration – Implemented using OpenAI-compatible endpoints
-✅ Pushover Notifications – Real-time alerts when a user shares contact details
-✅ Fallback Alert System – Notifies me when the AI can't confidently answer
-✅ 24/7 Deployment – Hosted live on Hugging Face Spaces using Gradio
-✅ Simple & Clean UI – Easy for anyone to interact with
+- Conversational AI Resume – Ask anything about my background, skills, and projects
+- Gemini LLM Integration – Implemented using OpenAI-compatible endpoints
+- Pushover Notifications – Real-time alerts when a user shares contact details
+- Fallback Alert System – Notifies me when the AI can't confidently answer
+- 24/7 Deployment – Hosted live on Hugging Face Spaces using Gradio
+- Simple & Clean UI – Easy for anyone to interact with
 
----
+--- 
 
 ## 🏗️ Tech Stack
 
