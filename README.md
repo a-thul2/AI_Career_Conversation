@@ -1,5 +1,7 @@
 # 💼 Career_Conversation – AI-Powered Interactive Resume Agent
 
+[🌐 Live Demo](gingface.co/spaces/athul8/career_conversation)
+
 Career_Conversation is an AI-powered conversational agent that acts as my **interactive resume**, allowing users to ask questions about my career, skills, and projects in real time.
 Instead of a static resume, this project provides a dynamic, always-on experience powered by **Gemini LLM (via OpenAI-compatible endpoints)** and deployed using **Gradio on Hugging Face Spaces**.
 
